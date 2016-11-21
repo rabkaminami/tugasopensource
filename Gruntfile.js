@@ -2,6 +2,7 @@
 module.exports = function (grunt) {
   'use strict';
 
+  test
   // configurable paths
   var projectConfig = {
     dist: 'dist',
